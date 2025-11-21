@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+.trae/
+.cursor/
+.codellama/
+.tabnine/
+.codebuddy/
+
+# Gradle
+.gradle/
+
+# Build
+build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+target/
+dist/
